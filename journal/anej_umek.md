@@ -4,10 +4,11 @@
 
 * 28. (1h) Initial meeting at the company, familirazing ourselves with the problem and the requirements. 
 
-## March 2025 (5h)
+## March 2025 (6.5h)
 
 * 24. (2h) Checking mails and messages, looking through Anže's work with DeepSeek classification.
 
 * 26. (3h) Coding the python DeepSeek NAICS codes classification script, trying different parameters.
 
-## Total: [6h]
+* 27. (1.5h) Finished DeepSeek NAICS codes clasification script, ran a basic script.
+## Total: [7.5h]
