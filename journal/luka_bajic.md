@@ -12,4 +12,8 @@
 * 24. (2h) Came up with a conceptual idea for a framework for the purpose of evaluating various models and determined the best way of storing the data and passing it between different parts of the code.
 * 25. (2h) Identified outdated/invalid codes in FRI_data_naics_classification.jsonl, according to the 2022 list of NAICS codes.
 
-## Total: [21h]
+## April 2025 (1h)
+* 4. (1h) Implemented the necessary basics for the evaluation framework. 
+
+
+## Total: [22h]
