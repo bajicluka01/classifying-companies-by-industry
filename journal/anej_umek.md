@@ -11,4 +11,8 @@
 * 26. (3h) Coding the python DeepSeek NAICS codes classification script, trying different parameters.
 
 * 27. (1.5h) Finished DeepSeek NAICS codes clasification script, ran a basic script.
-## Total: [7.5h]
+
+## March 2025 (2.5h)
+
+* 8. (2.5h) Extended deepseek model class, implemented train and test function, tested execution
+## Total: [10h]
