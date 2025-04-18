@@ -12,7 +12,12 @@
 
 * 27. (1.5h) Finished DeepSeek NAICS codes clasification script, ran a basic script.
 
-## March 2025 (2.5h)
+## April 2025 (5.5h)
 
 * 8. (2.5h) Extended deepseek model class, implemented train and test function, tested execution
-## Total: [10h]
+
+* 14. (1.5h) Extended deepseek model class (new changes)
+
+* 18. (1.5h) Tested deepseek model, tried different parameters
+
+## Total: [13h]
