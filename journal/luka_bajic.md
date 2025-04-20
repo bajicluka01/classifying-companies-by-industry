@@ -16,6 +16,6 @@
 * 4. (2h) Implemented the necessary basics for the evaluation framework. 
 * 7. (4h) Performed additional preprocessing, combined four different sources of ground truths, found even more invalid codes.
 * 19. (7h) Analyzed invalid codes outputted by Gemini and GPT models with various contexts. Attempting to find patterns in these codes to minimize the total ratio of incorrect outputs. 
-* 20. (5h) Performed analysis of model's outputs that do not agree with our current ground truths and determined that more than half of them are quite sensible. Additionally, found some errors/invalid codes in ground truths.
+* 20. (5h) Performed analysis of Gemini model's outputs that do not agree with our current ground truths and determined that more than half of them are quite sensible. Additionally, found some errors/invalid codes in ground truths.
 
 ## Total: [39h]
