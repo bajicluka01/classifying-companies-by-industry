@@ -12,9 +12,10 @@
 * 24. (2h) Came up with a conceptual idea for a framework for the purpose of evaluating various models and determined the best way of storing the data and passing it between different parts of the code.
 * 25. (2h) Identified outdated/invalid codes in FRI_data_naics_classification.jsonl, according to the 2022 list of NAICS codes.
 
-## April 2025 (13h)
+## April 2025 (18h)
 * 4. (2h) Implemented the necessary basics for the evaluation framework. 
 * 7. (4h) Performed additional preprocessing, combined four different sources of ground truths, found even more invalid codes.
 * 19. (7h) Analyzed invalid codes outputted by Gemini and GPT models with various contexts. Attempting to find patterns in these codes to minimize the total ratio of incorrect outputs. 
+* 20. (5h) Performed analysis of model's outputs that do not agree with our current ground truths and determined that more than half of them are quite sensible. Additionally, found some errors/invalid codes in ground truths.
 
-## Total: [34h]
+## Total: [39h]
