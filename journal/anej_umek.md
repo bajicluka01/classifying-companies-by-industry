@@ -12,7 +12,7 @@
 
 * 27. (1.5h) Finished DeepSeek NAICS codes clasification script, ran a basic script.
 
-## April 2025 (5.5h)
+## April 2025 (10h)
 
 * 8. (2.5h) Extended deepseek model class, implemented train and test function, tested execution
 
@@ -20,4 +20,7 @@
 
 * 18. (1.5h) Tested deepseek model, tried different parameters
 
-## Total: [13h]
+* 23. (2h) Started working on 2 layer hierarchical model
+
+* 28. (2.5h) Switched from Deepseek to Gemini, finished hierarchical model, tested basic and hierarchical model
+## Total: [17.5h]
