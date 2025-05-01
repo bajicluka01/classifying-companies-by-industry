@@ -20,4 +20,7 @@
 * 22. (8h) Implemented a code converter for old NAICS codes that the models sometimes output and integrated it with the evaluation framework. Generated ground truth #5 from Gemini's sensible outputs that were not in previous ground truths. 
 * 23. (6h) Additional ground truth modification based on GPT's outputs. Comparison of the two models. 
 
-## Total: [53h]
+## May 2025 (5h)
+* 1. (5h) Wrote the first draft of the report.
+
+## Total: [58h]
