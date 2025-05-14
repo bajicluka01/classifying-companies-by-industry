@@ -20,10 +20,11 @@
 * 22. (8h) Implemented a code converter for old NAICS codes that the models sometimes output and integrated it with the evaluation framework. Generated ground truth #5 from Gemini's sensible outputs that were not in previous ground truths. 
 * 23. (6h) Additional ground truth modification based on GPT's outputs. Comparison of the two models. 
 
-## May 2025 (27h)
+## May 2025 (35h)
 * 1. (5h) Wrote the first draft of the report.
 * 5. (7h) Performed analysis of our current best model with the goal of increasing absolute accuracy. Modified ground truth with sensible outputs.
 * 9. (5h) Preprocessed and analyzed newly received dataset with 100k companies.
-* 10. (10h) Manually created ground truth annotations for 200 companies from the new 100k dataset. 
+* 10. (10h) Manually created ground truth annotations for 200 companies from the new 100k dataset.
+* 13. (8h) Performed missing data analysis, to determine how much of the newly received data is useful for classification. Started working on fine-tuning DistilBERT for NAICS code classification.
 
-## Total: [80h]
+## Total: [88h]
