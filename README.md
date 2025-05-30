@@ -2,8 +2,6 @@
 
 ## About this repository ##
 
-A company’s industry classification is an important piece of information, for example, when searching for potential customers and competitors. One commonly used standard is the North American Industry Classification system (NAICS): https://www.naics.com/search/. Unfortunately, it is only available for a limited number of companies, so an efficient and effective way of categorizing the millions of other companies would be very beneficial.
-
-The main goal of the project is to implement one or more approaches to assigning a NAICS code to a company, based on the structured and unstructured information provided on their website (page texts, jobs, news). The proposed approaches also have to be thoroughly evaluated, providing insights into parts of the classification hierarchy where they work well and parts where they fail. The students will be provided with a dataset of at least 30k company websites with industry labels.
+The North American Industry Classification system is a standard for classifying companies. Unfortunately, the classification is readily available only for a small number of companies. We address this problem by developing an approach that can classify any company using a predetermined set of information about that company. Our approach is based on hierarchical prompting of a general-purpose LLM with company information and classification code descriptions. Using real-world data provided by PredictLeads, we demonstrate operationally acceptable performance for 6-digit codes and near-perfect performance for shorter codes. We also demonstrate how the approach can be scaled by training a secondary classifier. The scalable approach is currently below operationally acceptable performance, but is cost-effective and with a lot of potential for improvement.
 
 Keywords: predictive machine learning, taxonomy/hierarchy classification, natural language processing
