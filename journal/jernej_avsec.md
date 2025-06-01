@@ -13,7 +13,7 @@
 * 29. (10h) Another scraping of data from Naics website. Now for complete descriptions and different informations for every NAICS code (Top companies, related codes, examples, description...)
 * 30. (8h) Implementation of classification on Gemini model API.
 
-## April 2025 (49h)
+## April 2025 (65h)
 
 * 5. (15h) Implementation of framework using Luka's conceptual idea. This implementation includes robust loging functions, saving of models' outputs and calculation of necessary metrics.
 * 6. (5h) Updates to Gemini model implementation so it works with framework.
@@ -22,4 +22,16 @@
 * 14. (5h) Implementation of OpenAI model using their API, running some tests.
 * 15. (8h) Updates to eval framework and test of Gemini and ChatGPT: Added ratio of illegal code per request (#ill_codes/#test_cases), Absolute accuracy (#matching_codes/#generated_codes), Removal of illegal codes before testing.
 * 18. (8h) New version of Gemini and OpenAI models, analysis of illegal and mismatched codes in outputs of models.
-## Total: [101h]
+* 23. (8h) Evaluated using new promts and conditions on probability.
+* 25. (8h) Added gt from Gemini-naics6-v3_v2 mismatches and retested.
+ 
+## May 2025 (100h)
+* 3. (20h) Hierarchical model update, can now choose layers of generation and code metadata to use, testing, adaptation for OpenAI.
+* 5. (5h) Conditional hierarchical.
+* 12. (16h) Added production classification and parralel, first 10k.
+* 15. (3h) Added tests, validations for new ground truths.
+* 16. (8h) Prepared everything for classifier.
+* 22. (8h) Added ModernBERT for soft probabilities
+* 23. (8h) ModernBERT binary grond truth. 
+* 24.-30. (32h) ModernBERT, logistic regression, neural network training, testing, validating. Analysis of results, writing of the report.
+## Total: [217h]
