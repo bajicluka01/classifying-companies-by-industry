@@ -35,4 +35,8 @@
 * 29. (8h) Compiled all relevant results from old logs. Prepared visualizations for the report. 
 * 30. (9h) Finalized the report, improved the visualizations, added more detailed information about the data. 
 
-## Total: [151h]
+## June 2025 (9h)
+* 2. (5h) Presentation preparation.
+* 3. (4h) Finishing touches and final presentation.
+
+## Total: [160h]
